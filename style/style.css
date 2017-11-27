@@ -1,0 +1,73 @@
+body {
+  width: 90%;
+  margin: auto;
+  font-size: 3em;
+  background: lightgray;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+header {
+  padding-top: 10px;
+}
+
+.nav-pills {
+  font-size: .75em;
+  color: black;
+}
+
+.home1:hover, .student1:hover, .course1:hover, .active:hover {
+  box-shadow: aqua 0 -5px;
+}
+
+.active {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: blue;
+}
+
+.classes {
+  margin-top: 150px;
+}
+
+.pic1 {
+  margin-top: -200px;
+}
+
+.course {
+  margin-top: 150px;
+}
+
+.pic2 {
+  margin-top: -200px;
+}
+
+.students {
+  margin-top: 200px;
+}
+
+.pic3 {
+  margin-top: -200px;
+}
+
+.footer {
+  background-color: black;
+  color: grey;
+  font-size: 16px;
+}
+
+.footer {
+  background-color: black;
+}
+
+footer li {
+  display: inline;
+  font-size: 16px
+}
+
+.link1, .link2, .link3, .link4 {
+  color: white;
+}
